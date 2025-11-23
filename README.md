@@ -3,7 +3,7 @@
 # Professional Statement
 My name is Osmar. I am driven by my passion to help others. I enjoy team collaborations and solving complex problems.
 
--- About Me
+### About Me
 
 - Final-semester college student, pursuing the Google Cybersecurity Certificate
 - Skilled in troubleshooting, SQL, and Python
