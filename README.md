@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Professional Statement
-My name is Osmar. I am driven by my passion to help others. I enjoy team collaborations and solving complex problems.
+My name is Davier. I am driven by my passion to help others. I enjoy team collaborations and solving complex problems.
 
 ### About Me
 
