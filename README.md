@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name is Davi👋
 
 # Professional Statement
 My name is Davier. I am driven by my passion to help others. I enjoy team collaborations and solving complex problems.
