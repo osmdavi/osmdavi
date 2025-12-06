@@ -1,11 +1,11 @@
 ## Hi there my name is Davi👋
 
 # Professional Statement
-My name is Davier. I am driven by my passion to help others. I enjoy team collaborations and solving complex problems.
+I am driven by my passion to help others and motivated to expand my knowledge of data analysts. I deeply enjoy communicating and collaborating with teams and solving complex problems.
 
 ### About Me
 
-- Final-semester college student, pursuing the Google Cybersecurity Certificate
+- Final-semester college student, pursuing a Bachelor of Science in Information Systems
 - Skilled in troubleshooting, SQL, and Python
 - Strong communicator, able to bridge technical and non-technical teams
 - Interested in data visualization and strategic reporting
