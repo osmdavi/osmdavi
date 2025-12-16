@@ -11,7 +11,7 @@ I am driven by my passion to help others and motivated to expand my knowledge of
 - Interested in data visualization and strategic reporting
 
 ## Connect with Me !
-- [LinkedIn] (www.linkedin.com/in/osmardramirez)
+- [LinkedIn] www.linkedin.com/in/osmardramirez
 
 
 <!--
