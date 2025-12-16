@@ -5,7 +5,7 @@ I am driven by my passion to help others and motivated to expand my knowledge of
 
 ### About Me
 
-- Final-semester college student, pursuing a Bachelor of Science in Information Systems
+- Recent university graduate with a Bachelor of Science Information Systems
 - Skilled in troubleshooting, SQL, and Python
 - Strong communicator, able to bridge technical and non-technical teams
 - Interested in data visualization and strategic reporting
